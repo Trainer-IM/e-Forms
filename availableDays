@@ -1,0 +1,25 @@
+{
+"Employees" : [
+{
+"employeeId":"E1",
+"jobTitleName":"Developer",
+"name":"Andrew Jackson",
+"email":"andrew.jackson@moyaware.com",
+"availableDays":"10",
+},
+{
+"employeeId":"E2",
+"jobTitleName":"Marketing Manager",
+"name":"Julia Bell",
+"email":"julia.bell@moyaware.com",
+"availableDays":"5",
+},
+{
+"employeeId":"E3",
+"jobTitleName":"Sales Manager",
+"name":"Sladja Macak",
+"email":"sladja.macak@moyaware.com",
+"availableDays":"5",
+}
+]
+}
